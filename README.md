@@ -1,3 +1,3 @@
-# info6205
+# info-6205
 
-code assignment for the class
+code assignments for the class
