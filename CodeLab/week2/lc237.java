@@ -6,7 +6,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class lc237 {
     public void deleteNode(ListNode node) {
         ListNode next = node.next;
         node.val = next.val;
